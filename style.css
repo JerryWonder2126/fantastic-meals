@@ -1,0 +1,24 @@
+body{
+  background-color: rgba(8, 0, 0, 0.781);
+  color: white;
+}
+h1{
+  text-align: center;
+  text-transform: capitalize;
+}
+h2{
+  text-align: left;
+  border-radius: 20px;
+  background-color: white;
+  color: rgba(8, 0, 0, 0.781);
+  padding: 10px;
+}
+p{
+  font-family: serif;
+  text-align: justify;
+}
+img{
+  width: 100%;
+  max-width: 500px;
+  border-radius: 20px;
+}
